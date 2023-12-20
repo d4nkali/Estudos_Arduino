@@ -43,7 +43,7 @@ void loop() {
 
   }
 
-  if (digitalRead(botao_mudo) == LOW) { // Se o botão de menos for precionado, então:
+  if (digitalRead(botao_mudo) == LOW) { // Se o botão de mudo for precionado, então:
 
     Consumer.write(MEDIA_VOLUME_MUTE); // Emula a tecla de mudo
     digitalWrite(LED_BUILTIN, HIGH);  // Liga o led
