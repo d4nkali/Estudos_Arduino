@@ -14,4 +14,4 @@ Na pasta *Pinout_Placas*, possui os diagramas das placas mostrando a função do
 
 ### Testes
 
-Pastas com varios teste de funções e de modulos do Arduino e talvez outras placas.
+Pastas com varios teste de funções e de modulos do Arduino e talvez de outras placas.
